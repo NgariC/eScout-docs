@@ -1,0 +1,24 @@
+{
+  "name": "escout",
+  "version": "1.0.0",
+  "description": "eScout Portal Documentation",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgariC/eScout-docs.git"
+  },
+  "author": "Charles Ngari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgariC/eScout-docs/issues"
+  },
+  "homepage": "https://github.com/NgariC/eScout-docs#readme",
+  "devDependencies": {
+    "vitepress": "^0.11.1"
+  }
+}
